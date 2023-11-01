@@ -1,0 +1,138 @@
+.button_btn{
+    margin: 10px;
+    border-radius: 0;
+    transition: 0.5s;
+    font-weight: 700;
+    background: blue;
+}
+.button_btn2{
+    margin: 15px 5px;
+    border-radius: 0;
+    transition: 0.5s;
+    font-weight: 700;
+    background: blue;
+    padding: 4px 5px;
+}
+.button_btn:hover{
+    color:#0D6EFD;
+    background: #fff;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.modal-content{
+    border-radius: 0;
+}
+.modal-header h5{
+    font-weight: 700;
+}
+.modal-header button{
+    font-weight: 700;
+    color: red;
+}
+.modal-body{
+    text-align: center;
+    font-size: 14px;
+}
+.modal-body select{
+    margin: 5px 0 15px 0;
+    border-radius: 0;
+    font-size: 14px;
+    border: 1px solid blue;
+}
+.modal-body input{
+    margin: 5px 0 15px 0;
+    border-radius: 0;
+    font-size: 14px;
+    border: 1px solid blue;
+}
+.modal-body .input-label{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.form_student_about label{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.form_student_about input{    
+    margin: 5px 0 15px 0;
+    border-radius: 0;
+    font-size: 14px;
+    border: 1px solid blue;
+}
+.form_student_about button{
+    margin: 10px;
+    border-radius: 0;
+    transition: 0.5s;
+    font-weight: 500;
+    border: 1px solid blue;
+    transition: 0.5s;
+    background: rgba(0, 0, 255, 0.05);
+    margin: 0 auto;
+    font-weight: 700;
+}
+.form_student_about button:hover{
+    background: rgba(0, 0, 255, 0.5);
+    color: #fff;
+}
+.modal-body .Filter_btn{
+    margin: 10px;
+    border-radius: 0;
+    transition: 0.5s;
+    font-weight: 500;
+    border: 1px solid blue;
+    transition: 0.5s;
+    background: rgba(0, 0, 255, 0.05);
+}
+.modal-body .Filter_btn:hover{
+    background: rgba(0, 0, 255, 0.55);
+    color: #fff;
+    font-weight: 600;
+}
+
+.my_table_search thead th{
+    background-color:rgba(0, 0, 255, 0.5);
+    text-align: center;
+    color: #fff;
+    border: 1px solid blue;
+}
+.room_table{
+    font-size: 14px;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+.room_table .top_header{
+    background-color: rgba(0, 0, 255, 0.5);
+    color: aqua;
+}
+.cards_main2{
+    padding: 15px;
+}
+.card-body .card_main{
+    margin: 0;
+    text-align: center;
+}
+.card_main table{
+    width: 100%;
+}
+.card_main table i{
+    font-size: 65px;
+    color: burlywood;
+    font-weight: 700;
+    border: 1px solid burlywood;
+    border-radius: 50%;
+    padding: 3px 15px;
+}
+.card_main table .sentedet{
+    color: brown;
+}
+.card_main table h2{
+    font-size: 36px;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+    color: chartreuse;
+    margin-top: 10px;
+}
